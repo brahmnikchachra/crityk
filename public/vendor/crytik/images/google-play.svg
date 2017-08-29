@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="24px" viewBox="0 0 22 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>google play logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="61.0874018%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FBDA09" offset="0%"></stop>
+            <stop stop-color="#FFBC00" offset="100%"></stop>
+        </linearGradient>
+        <path d="M20.2102133,10.6381055 C21.4369042,11.3617511 21.4376595,12.534584 20.2102133,13.2586963 L2.84530482,23.5028462 C1.61861391,24.2265128 0.624184442,23.6237903 0.624184442,22.1626039 L0.624184442,1.73453339 C0.624184442,0.27067134 1.61785859,-0.32983818 2.84530482,0.394253053" id="path-2"></path>
+        <linearGradient x1="0%" y1="58.4755255%" x2="69.3064856%" y2="39.0830098%" id="linearGradient-4">
+            <stop stop-color="#01E2FF" offset="0%"></stop>
+            <stop stop-color="#01C4FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="20.2810876%" y1="20.1019903%" x2="83.820166%" y2="83.6214476%" id="linearGradient-5">
+            <stop stop-color="#28D781" offset="0%"></stop>
+            <stop stop-color="#02F076" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="74.4881466%" y1="17.4301299%" x2="10.1079427%" y2="91.1838038%" id="linearGradient-6">
+            <stop stop-color="#F2414E" offset="0%"></stop>
+            <stop stop-color="#E02554" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="CRITYK-WEBSITE-2017-V1-w/blog" transform="translate(-740.000000, -342.000000)">
+            <g id="Title---Subtitle---Text---Call-to-action" transform="translate(281.500000, 146.000000)">
+                <g id="App-Store-•-Google-Play" transform="translate(223.500000, 178.000000)">
+                    <g id="play-store" transform="translate(210.000000, 0.000000)">
+                        <g id="google-play-logo" transform="translate(25.000000, 18.000000)">
+                            <mask id="mask-3" fill="white">
+                                <use xlink:href="#path-2"></use>
+                            </mask>
+                            <use id="yellow" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                            <polygon id="blue" fill="url(#linearGradient-4)" mask="url(#mask-3)" points="0.624184442 0.192467731 12.0003662 11.986145 0.624184442 23.9060417"></polygon>
+                            <polygon id="green" fill="url(#linearGradient-5)" mask="url(#mask-3)" points="-1.76721191 -2.29992676 12.0077515 12.0021973 15.9885379 7.76857368"></polygon>
+                            <polygon id="red" fill="url(#linearGradient-6)" mask="url(#mask-3)" points="12.0109863 11.9938965 18.1150506 18.2567607 -0.397180007 24.7553285"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

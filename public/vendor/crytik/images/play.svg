@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>play button</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="CRITYK-WEBSITE-2017-V1-w/blog" transform="translate(-660.000000, -1269.000000)" fill="#007AFF">
+            <g id="What-is-Crityk" transform="translate(0.000000, 900.000000)">
+                <g id="play-button" transform="translate(660.000000, 369.000000)">
+                    <circle id="base" opacity="0.2" cx="40" cy="40" r="40"></circle>
+                    <path d="M53.5717881,38.6953361 C54.6760855,39.4158859 54.6760557,40.5841475 53.5717881,41.3046779 L33.9995073,54.0755168 C32.8952099,54.7960667 32,54.2763409 32,52.9149356 L32,27.0850783 C32,25.7235572 32.8952397,25.2039667 33.9995073,25.9244971 L53.5717881,38.6953361 Z" id="Triangle"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

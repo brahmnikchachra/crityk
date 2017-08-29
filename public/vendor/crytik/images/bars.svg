@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="46px" viewBox="0 0 42 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Filters Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="12" cy="37" r="5"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="10" height="10" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <circle id="path-3" cx="34" cy="21" r="5"></circle>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="10" height="10" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <circle id="path-5" cx="22" cy="5" r="5"></circle>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="10" height="10" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="CRITYK-WEBSITE-2017-V1-w/blog" transform="translate(-314.000000, -1982.000000)">
+            <g id="Crityk-App-Features" transform="translate(0.000000, 1430.000000)">
+                <g id="Iphone-•-Features" transform="translate(157.000000, 185.000000)">
+                    <g id="2" transform="translate(0.000000, 339.000000)">
+                        <g id="Filters-Icon" transform="translate(178.000000, 51.000000) rotate(90.000000) translate(-178.000000, -51.000000) translate(138.000000, 11.000000)">
+                            <g id="Icon" transform="translate(17.000000, 19.000000)">
+                                <path d="M9,6.5 L17,6.5 L44,6.5 C45.104,6.5 46,5.828 46,5 C46,4.172 45.104,3.5 44,3.5 L17,3.5 L9,3.5 L2,3.5 C0.896,3.5 0,4.172 0,5 C0,5.828 0.896,6.5 2,6.5 L9,6.5 Z" id="Fill-147" fill="#007AFF"></path>
+                                <path d="M38,19.5 L30,19.5 L2,19.5 C0.896,19.5 -3.55271368e-15,20.172 -3.55271368e-15,21 C-3.55271368e-15,21.828 0.896,22.5 2,22.5 L30,22.5 L38,22.5 L44,22.5 C45.104,22.5 46,21.828 46,21 C46,20.172 45.104,19.5 44,19.5 L38,19.5 Z" id="Fill-149" fill="#007AFF"></path>
+                                <path d="M17,35.5 L9,35.5 L2,35.5 C0.896,35.5 -3.55271368e-15,36.172 -3.55271368e-15,37 C-3.55271368e-15,37.828 0.896,38.5 2,38.5 L9,38.5 L17,38.5 L44,38.5 C45.104,38.5 46,37.828 46,37 C46,36.172 45.104,35.5 44,35.5 L17,35.5 Z" id="Fill-151" fill="#007AFF"></path>
+                                <use id="Oval" stroke="#007AFF" mask="url(#mask-2)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-1"></use>
+                                <use id="Oval" stroke="#007AFF" mask="url(#mask-4)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-3"></use>
+                                <use id="Oval" stroke="#007AFF" mask="url(#mask-6)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-5"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
